@@ -11,7 +11,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             Calc c = new Calc();
-            int r = 5;
+            int r = 4;
             Assert.AreEqual(c.add(2, 2), r);
             
         }
