@@ -1,0 +1,9 @@
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\bin\Debug\Tidsregistrering.exe
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\bin\Debug\Tidsregistrering.pdb
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Programs\Jenkins\workspace\Tidsregistrering\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
