@@ -1,0 +1,1 @@
+D:\Programs\Jenkins\workspace\Tidsregistrering\Tidsregistrering\bin\Debug\Tidsregistrering.exe.config
