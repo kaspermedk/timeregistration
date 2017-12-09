@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tidsregistrering", "Tidsregistrering.csproj", "{26882DB6-71A5-4876-A528-5E5B2559F87C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{36C1AE2C-274C-439D-9EFC-777E73BE335F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{26882DB6-71A5-4876-A528-5E5B2559F87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26882DB6-71A5-4876-A528-5E5B2559F87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26882DB6-71A5-4876-A528-5E5B2559F87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C1AE2C-274C-439D-9EFC-777E73BE335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C1AE2C-274C-439D-9EFC-777E73BE335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C1AE2C-274C-439D-9EFC-777E73BE335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C1AE2C-274C-439D-9EFC-777E73BE335F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
