@@ -1,1 +1,15 @@
 D:\Programs\Jenkins\workspace\Tidsregistrering\Tidsregistrering\bin\Debug\Tidsregistrering.exe.config
+D:\programs\Jenkins\workspace\Tidsregistrering\bin\Debug\Tidsregistrering.exe.config
+D:\programs\Jenkins\workspace\Tidsregistrering\bin\Debug\Tidsregistrering.exe
+D:\programs\Jenkins\workspace\Tidsregistrering\bin\Debug\Tidsregistrering.pdb
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering.csprojResolveAssemblyReference.cache
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\MainWindow.g.cs
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\App.g.cs
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering_MarkupCompile.cache
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering_MarkupCompile.lref
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\MainWindow.baml
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering.g.resources
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering.Properties.Resources.resources
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering.csproj.GenerateResource.Cache
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering.exe
+D:\programs\Jenkins\workspace\Tidsregistrering\obj\Debug\Tidsregistrering.pdb
